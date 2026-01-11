@@ -31,7 +31,7 @@ A. $\sqrt{2}-1$ $\quad$ B. 1 $\quad$ C. $\sqrt{3}-1$ $\quad$ D. $\sqrt{5}-1$
 A. $\sqrt{3}$ $\quad$ B. $\frac{\sqrt{2}+\sqrt{3}}{2}$ $\quad$ C. $\frac{\sqrt{6}-\sqrt{2}}{2}$ $\quad$ D. $2\sqrt{2}-1$
 
 **⑤** 命题 $A$: $(7x+3)^n$ 展开式中系数最大的项是第3项。
-命题 $B$: $n \ge 6$。
+命题 $B$: $n \in \{6,7,8,9,10\}$。
 则 $B$ 是 $A$ 的 \_\_\_\_\_\_ 条件 ( )
 A. 充要 $\quad$ B. 充分不必要 $\quad$ C. 必要不充分 $\quad$ D. 既不充分也不必要
 
