@@ -8,7 +8,18 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   markdown: {
-    math: true
+    math: {
+      tex: {
+        macros: {
+          R: '\\mathbb{R}',
+          N: '\\mathbb{N}',
+          Z: '\\mathbb{Z}',
+          Q: '\\mathbb{Q}',
+          C: '\\mathbb{C}',
+          degree: '^\\circ'
+        }
+      }
+    }
   },
   themeConfig: {
     nav: [
