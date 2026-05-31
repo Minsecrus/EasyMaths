@@ -26,7 +26,10 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '三角函数', link: '/三角函数' },
       { text: '神卷', link: '/神卷' },
-      { text: 'mdr卷', link: '/mdr卷' }
+      { text: 'mdr卷', link: '/mdr卷' },
+      { text: 'mdr卷答案', link: '/mdr卷答案' },
+      { text: 'mdr二卷', link: '/mdr二卷' },
+      { text: 'mdr二卷答案', link: '/mdr二卷答案' }
     ],
     sidebar: [
       {
@@ -40,7 +43,10 @@ export default defineConfig({
         items: [
           { text: '浅谈三角函数', link: '/三角函数' },
           { text: '神卷', link: '/神卷' },
-          { text: 'mdr卷', link: '/mdr卷' }
+          { text: 'mdr卷', link: '/mdr卷' },
+          { text: 'mdr卷答案', link: '/mdr卷答案' },
+          { text: 'mdr二卷', link: '/mdr二卷' },
+          { text: 'mdr二卷答案', link: '/mdr二卷答案' }
         ]
       }
     ],
